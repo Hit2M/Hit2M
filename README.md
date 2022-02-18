@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HitSans
+- 👋 Hi, I’m @Hit2M
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning c++ / Algorithm
 - 📫 How to reach me
