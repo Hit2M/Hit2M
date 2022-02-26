@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hit2M
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning c++ / Algorithm
-- 📫 How to reach me
+- 📫 How to reach me  
 coats_jays_0x@icloud.com & discord: DOXX#4819
 
 
