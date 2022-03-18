@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hit2M
 - 👀 I’m interested in Algorithm & Android Reversing
-- 🌱 I’m currently learning c++ & Algorithm at boj.kr
+- 🌱 I’m currently learning node js / typescript
 - 📫 How to reach me  
 - coats_jays_0x@icloud.com & discord: 히트#4819
 
