@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hit2M
-- 👀 I’m interested in Algorithm & Android Reversing
+- 👀 I’m interested in Window Reversing
 - 🌱 I’m currently learning node js / typescript
 - 📫 How to reach me  
 - coats_jays_0x@icloud.com & discord: 히트#4819
